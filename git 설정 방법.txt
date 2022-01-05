@@ -1,0 +1,2 @@
+#홈페이지 스킨 바꾸기
+Setting - Appearance - Theme preferences 스킨 선택
